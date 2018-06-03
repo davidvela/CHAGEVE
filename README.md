@@ -6,3 +6,5 @@ Chava German Vela
 * starting app - web app deploy in phone using cordova? 
 * Game idea 
 * Alexa skill 
+
+on-going 
